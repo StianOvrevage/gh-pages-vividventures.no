@@ -2,7 +2,7 @@ copyright = "© Stian Øvrevåge"
 baseURL = 'https://vividventures.no/'
 languageCode = 'en-us'
 title = 'VividVentures'
-timeout = 300s # 5 minutes. Default 30s
+timeout = "300s" # 5 minutes. Default 30s
 
 [params]
   defaultTheme = "dark"
