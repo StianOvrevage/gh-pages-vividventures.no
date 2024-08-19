@@ -1,0 +1,29 @@
+copyright = "© Stian Øvrevåge"
+baseURL = 'https://vividventures.no/'
+languageCode = 'en-us'
+title = 'VividVentures'
+
+[params]
+  defaultTheme = "dark"
+  # description = "params description here"
+  # title = "params title here My Gallery"
+
+  [params.author]
+    # email = "todo@todo"
+    name = "Stian Øvrevåge"
+
+  [params.socialIcons]
+    # facebook = "https://www.facebook.com/"
+    # instagram = "https://www.instagram.com/"
+    # youtube = "https://www.youtube.com/"
+    # email = "mailto:todo..."
+
+[menu]
+  [[menu.footer]]
+    name = "stian.omg.lol"
+    url = "https://stian.omg.lol"
+    weight = 3
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
