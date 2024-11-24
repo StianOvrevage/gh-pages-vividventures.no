@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/stian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vividventures.no
+  * I am stian (https://keybase.io/stian) on keybase.
+  * I have a public key with fingerprint E003 E44B B94C 6EA3 93BD  73FE 623A CD53 1475 72B1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010135a610b003505fc3212067e5b51420346fdd044c163290982103dba7ccf98aac0a",
+      "fingerprint": "e003e44bb94c6ea393bd73fe623acd53147572b1",
+      "host": "keybase.io",
+      "key_id": "623acd53147572b1",
+      "kid": "010135a610b003505fc3212067e5b51420346fdd044c163290982103dba7ccf98aac0a",
+      "uid": "4b8056e073b46a528afa7c637926e300",
+      "username": "stian"
+    },
+    "service": {
+      "hostname": "vividventures.no",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1732461931,
+  "expire_in": 157680000,
+  "prev": "c8051e885115304bb256bf24c71f156dfb54e94b9c7257dd5026647b4a9b125f",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNAAnicrVJrTBRXGJ0FBVxapCmlgpDqRBogK8z7sbUmgGh4WaACjSHdzp25swws
+u7A7LBDAoICBFmO6TasYQ1OKxj60kRZFjDUK1lUgQlweChEqxdA2KNu0tdqSdobY
+f/3Z++fmft85557z3Tv4fCBiNADzyJsRVc6zhqErHVWINS29rA4FDqkWNdehZXB1
+gzYJulRLmSKhZhTDMZykBQbHAIaRNEbLIkngBMawkAY0ThEYSTGyJGEUJeIMSfAY
+zxE4RkpAYEVR5jlBEDEBNaGyYrdCZ4VTsauaLNTEIEUBwFMiAwWSJ4HEkjJkCFIQ
+JZrEKZZmCYBrxBKHS2do5oDggkmKQ6tpB8uqvf/A/8++q1blKMBhNAMxlgQUI9AE
+J8gajiFZnmAgiWE60AWddqEcamiXqgh2tMGEaiW3IkJ9qnqMZ2234lYkN7SrVU7o
+SrLrgSqcDtUhOmxat0RVK1xmna3WVujwaggsz4QsQLFL2iA1hhs6XYrDjppxDSmq
+iq6MsyRBMThP4iYU1lQoTmhRdATNMhymLf0e6NYkRS0NDjmOxnGaxLRnIGgGyAQl
+sriM04wkA5qCPAV4kSVoVpJojGAYigWUwAOcoGVUj1apOTcTpOZTsOqhFatd0COh
+DVevFK9BDEYkaG2A/sMQ47rwf//dcns48jF3yRGyS3o81P4krnnhxIWanwvA3q4o
+d1PHSuNUvqllauxMwU+/F6VPJKe2xu7IvJaXA+IM0ZcEb/BoROZ0fRv22qOaoedu
+bpLC3vv6XqG1z7Q95MHaEDACvvmxcG7bk1daE52/5crKRPzrOUm2Yx+kO7/o/dST
+s/jdwdzDRcH5xcYuZCkyq20YeflYVEHAeP/pwRuNU+GBgbP+DFvbQHVMVurDrHHr
+0TKkjOjoKh464/EZ2remdt7Lu1s7+H73V/lB1V21m1s82XMtu3PCAo6T8lNj8fRS
+6amL2+4k7H/w7e3GrP2vms5fO+AR4xN6T9kWuud3z/le/OR7+UBoJ83FTiM/YB8u
+q97JYZ9/dDQu+b5lOMxwq3nnTIqhuXPL0eimvM83j22IFE7sU+Zxj3c2Q9oVH5wm
+t8UatyNvfOYrwr983F+8sOd0X/8+rqP+UNLDy++YC7eWgoHc22MtTd1zngjHW+i7
+cYdwazxzHimZPzfzt7+n98aWdejKyYaeKFv1nfGR+uXIoPKM9St2d2+/uCEzppWX
+96ZcVf+M/uulofjLRyr7r/f4QutmPBe9ixunFkOMGyvPSeULLdlZv+5YCU1ec3a2
+wD938PhEyYVHN5P+cC6dTHv6tun6jL8vPLs5YCCxdOfdMG7SN78nL+ZW+UyiiUtJ
+8P9y/wVv00feqtRN8uQ/zSi4Qw==
+=VN6K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stian
+
+==================================================================
